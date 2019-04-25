@@ -59,14 +59,12 @@ h1 {
 }
 
 
-
 .images {
       position: absolute;
       width: 0%;
       height: 100vh;
       left: 55%;
-/*      background: url() no-repeat 50% 50%;
-*/    background-size: cover;
+      background-size: cover;
 }
 
 .bg {
